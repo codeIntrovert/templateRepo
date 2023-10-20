@@ -6,6 +6,16 @@ or just open an issue with the label "enhancement".
 Don't forget to give this project a star for additional support ;)
 Maybe you can mention me or this repo in the acknowledgements too
 -->
+
+<!--
+This README is a slimmed down version of the original one.
+Removed sections:
+- Screenshots
+- Running Test
+- Deployment
+- FAQ
+-->
+
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
@@ -14,38 +24,38 @@ Maybe you can mention me or this repo in the acknowledgements too
   <p>
     An awesome README template for your projects! 
   </p>
-  
+
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+  <a href="https://github.com/codeIntrovert/awesome-readme-template/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codeIntrovert/awesome-readme-template" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/codeIntrovert/awesome-readme-template" alt="last update" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+  <a href="https://github.com/codeIntrovert/awesome-readme-template/network/members">
+    <img src="https://img.shields.io/github/forks/codeIntrovert/awesome-readme-template" alt="forks" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+  <a href="https://github.com/codeIntrovert/awesome-readme-template/stargazers">
+    <img src="https://img.shields.io/github/stars/codeIntrovert/awesome-readme-template" alt="stars" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+  <a href="https://github.com/codeIntrovert/awesome-readme-template/issues/">
+    <img src="https://img.shields.io/github/issues/codeIntrovert/awesome-readme-template" alt="open issues" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+  <a href="https://github.com/codeIntrovert/awesome-readme-template/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/codeIntrovert/awesome-readme-template.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="https://github.com/codeIntrovert/awesome-readme-template/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://github.com/codeIntrovert/awesome-readme-template">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
+    <a href="https://github.com/codeIntrovert/awesome-readme-template/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://github.com/codeIntrovert/awesome-readme-template/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -55,7 +65,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
-  * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
   * [Features](#dart-features)
   * [Color Reference](#art-color-reference)
@@ -63,26 +72,18 @@ Maybe you can mention me or this repo in the acknowledgements too
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
   * [Run Locally](#running-run-locally)
-  * [Deployment](#triangular_flag_on_post-deployment)
 - [Usage](#eyes-usage)
 - [Roadmap](#compass-roadmap)
 - [Contributing](#wave-contributing)
   * [Code of Conduct](#scroll-code-of-conduct)
-- [FAQ](#grey_question-faq)
 - [License](#warning-license)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
-
   
 
 <!-- About the Project -->
 ## :star2: About the Project
-
-
-<!-- Screenshots -->
-### :camera: Screenshots
 
 <div align="center"> 
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
@@ -184,15 +185,7 @@ Install my-project with npm
   yarn install my-project
   cd my-project
 ```
-   
-<!-- Running Tests -->
-### :test_tube: Running Tests
 
-To run tests, run the following command
-
-```bash
-  yarn test test
-```
 
 <!-- Run Locally -->
 ### :running: Run Locally
@@ -200,7 +193,7 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
+  git clone https://github.com/codeIntrovert/awesome-readme-template.git
 ```
 
 Go to the project directory
@@ -219,16 +212,6 @@ Start the server
 
 ```bash
   yarn start
-```
-
-
-<!-- Deployment -->
-### :triangular_flag_on_post: Deployment
-
-To deploy this project run
-
-```bash
-  yarn deploy
 ```
 
 
@@ -252,12 +235,11 @@ function App() {
 * [x] Todo 1
 * [ ] Todo 2
 
-
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+<a href="https://github.com/codeIntrovert/awesome-readme-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeIntrovert/awesome-readme-template" />
 </a>
 
 
@@ -269,18 +251,7 @@ See `contributing.md` for ways to get started.
 <!-- Code of Conduct -->
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
-
-<!-- FAQ -->
-## :grey_question: FAQ
-
-- Question 1
-
-  + Answer 1
-
-- Question 2
-
-  + Answer 2
+Please read the [Code of Conduct](https://github.com/codeIntrovert/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
 
 
 <!-- License -->
@@ -294,8 +265,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
-
+Project Link: [https://github.com/codeIntrovert/awesome-readme-template](https://github.com/codeIntrovert/awesome-readme-template)
 
 <!-- Acknowledgments -->
 ## :gem: Acknowledgements
